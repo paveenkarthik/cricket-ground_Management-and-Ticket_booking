@@ -61,6 +61,7 @@ public class groundControl {
         int rs=grd.alterstadiumName(g,id);
         return rs;
     }
+    
     public int altergrdPlace(String change, int id) throws Exception{
         groundDAO grd = new groundDAO();
         Ground g=new Ground();

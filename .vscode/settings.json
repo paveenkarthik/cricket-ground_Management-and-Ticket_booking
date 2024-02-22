@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "cricket match booking and managing/lib/mysql-connector-j-8.0.33.jar"
+  ]
+}
